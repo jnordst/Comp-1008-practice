@@ -13,6 +13,7 @@ public class Main {
 
         cart.AddToCart(fireEmblem);
         cart.AddToCart(finalFantasy);
+        cart.AddToCart(octopathTraveler);
 
 
 
